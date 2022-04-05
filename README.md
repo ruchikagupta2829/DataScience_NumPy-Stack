@@ -22,6 +22,11 @@ day 03 -- Linear algebra operation perform on matrix
 8. Normal Distribution
 
 
+Day 04 ----> Creating an array with different functions 
+1. arange()
+2. linspace()
+3. ones()
+4. zeros()
 
 
 
