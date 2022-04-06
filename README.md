@@ -30,4 +30,10 @@ Day 04 ----> Creating an array with different functions
 
 
 
+Day 05 ----> Uses of some basic functions on 1-D array
+1. Mathematical Functions
+2. Logarthim Functions
+3. Statistical Functions
+
+
 
